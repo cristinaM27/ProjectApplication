@@ -1,0 +1,120 @@
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll.config
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.pdb
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.dll
+c:\users\user\documents\visual studio 2015\Projects\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.pdb
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll.config
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.pdb
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.dll
+C:\Users\Student\Desktop\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.pdb
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\csc.exe
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\vbc.exe
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll.config
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\EmptyWebApiProject.pdb
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.Web.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\Newtonsoft.Json.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.dll
+C:\Users\Student\Desktop\asp.net\EmptyWebApiProject\EmptyWebApiProject\obj\Debug\EmptyWebApiProject.pdb
